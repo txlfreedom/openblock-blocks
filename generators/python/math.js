@@ -43,6 +43,7 @@ Blockly.Python['math_angle'] = Blockly.Python['math_number'];
 
 Blockly.Python['math_int8_number'] = Blockly.Python['math_number'];
 Blockly.Python['math_uint8_number'] = Blockly.Python['math_number'];
+Blockly.Python['math_bit_number'] = Blockly.Python['math_number'];
 Blockly.Python['math_int9_number'] = Blockly.Python['math_number'];
 Blockly.Python['math_uint10_number'] = Blockly.Python['math_number'];
 Blockly.Python['math_int11_number'] = Blockly.Python['math_number'];
